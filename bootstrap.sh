@@ -2,3 +2,4 @@
 sudo apt-get update
 sudo apt-get install -y git
 
+git clone https://github.com/andrewshawcare/oven.git
